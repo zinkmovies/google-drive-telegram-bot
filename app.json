@@ -24,7 +24,7 @@
     },
     "SUPPORT_CHAT_LINK": {
       "description": "Support Chat link in valid url format.",
-      "value": "https://github.com/zinkmovies/google-drive-telegram-bot"
+      "value": "https://t.me/joinchat/qdEO8i_kv_5iZDkx"
     },
     "DOWNLOAD_DIRECTORY": {
       "description": "Custom path for downloads. Must end with a forward slash.",
