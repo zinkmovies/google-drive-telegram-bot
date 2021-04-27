@@ -1,8 +1,8 @@
 {
   "name": "ZinkmoviesBot",
   "description": "Telegram/Direct Links to ZinkmoviesBot Uploader Bot",
-  "repository": "https://github.com/viperadnan-git/google-drive-telegram-bot",
-  "logo": "https://telegra.ph/file/8669281aa2360613f7511.jpg",
+  "repository": "https://github.com/zinkmovies/google-drive-telegram-bot",
+  "logo": "https://i.ibb.co/0mcWy2H/IMG-20210427-214146-919.jpg",
   "keywords": ["Telegram", "Google Drive", "uploader"],
   "env": {
     "ENV": {
@@ -24,7 +24,7 @@
     },
     "SUPPORT_CHAT_LINK": {
       "description": "Support Chat link in valid url format.",
-      "value": "https://viperadnan-git.github.io"
+      "value": "https://github.com/zinkmovies/google-drive-telegram-bot"
     },
     "DOWNLOAD_DIRECTORY": {
       "description": "Custom path for downloads. Must end with a forward slash.",
